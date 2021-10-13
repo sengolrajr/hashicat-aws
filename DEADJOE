@@ -1,0 +1,32 @@
+
+*** These modified files were found in JOE when it aborted on Wed Oct 13 04:16:55 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** File '(Unnamed)'
+/root/.gitconfig
+
+*** File '/root/.gitconfig'
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+q!
+#	name = root
+#	email = root@p-arby6oqdvggh-workstation.c.instruqt-prod.internal
+
+*** These modified files were found in JOE when it aborted on Wed Oct 13 04:18:20 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/.gitconfig
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
